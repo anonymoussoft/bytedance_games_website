@@ -1,0 +1,177 @@
+{
+  "generated_at": "2026-03-18T10:25:10.554Z",
+  "seed_file": "content/games/seed/nuverse_games_en_2026-03-18.json",
+  "outputs_under": "web/public/media/seed",
+  "items": {
+    "nuverse-362004-earth-revival": {
+      "sources": {
+        "icon": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_49_09/1383879050058_s31326.png",
+          "resolvedUrl": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_49_09/1383879050058_s31326.png",
+          "contentType": "image/png",
+          "sha256": "48a0eeaf4d228cc3b0aede8ce4a9745a4a5dccf264846de666e5e6c454177e44",
+          "file": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/source/icon.png"
+        },
+        "hero": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_49_09/1745354848258_s31328.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_49_09/1745354848258_s31328.png"
+        },
+        "card": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_49_09/1383879050058_s31326.png",
+          "resolvedUrl": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_49_09/1383879050058_s31326.png",
+          "contentType": "image/png",
+          "sha256": "48a0eeaf4d228cc3b0aede8ce4a9745a4a5dccf264846de666e5e6c454177e44",
+          "file": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/source/card.png"
+        }
+      },
+      "local": {
+        "icon": "/media/seed/nuverse-362004-earth-revival/source/icon.png",
+        "card": "/media/seed/nuverse-362004-earth-revival/derived/card_512.webp",
+        "hero": "/media/seed/nuverse-362004-earth-revival/derived/hero_1600x900.webp",
+        "thumb": "/media/seed/nuverse-362004-earth-revival/derived/thumb_800x600.webp",
+        "fallback": {
+          "card": "/media/seed/nuverse-362004-earth-revival/derived/card_512.jpg",
+          "hero": "/media/seed/nuverse-362004-earth-revival/derived/hero_1600x900.jpg",
+          "thumb": "/media/seed/nuverse-362004-earth-revival/derived/thumb_800x600.jpg"
+        },
+        "_debug": {
+          "heroDer": {
+            "cardWebp": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/derived/card_512.webp",
+            "cardJpg": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/derived/card_512.jpg",
+            "heroWebp": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/derived/hero_1600x900.webp",
+            "heroJpg": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/derived/hero_1600x900.jpg",
+            "thumbWebp": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/derived/thumb_800x600.webp",
+            "thumbJpg": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/derived/thumb_800x600.jpg"
+          },
+          "cardDer": {
+            "cardWebp": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/derived/card_512.webp",
+            "cardJpg": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/derived/card_512.jpg",
+            "heroWebp": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/derived/hero_1600x900.webp",
+            "heroJpg": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/derived/hero_1600x900.jpg",
+            "thumbWebp": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/derived/thumb_800x600.webp",
+            "thumbJpg": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/seed/nuverse-362004-earth-revival/derived/thumb_800x600.jpg"
+          }
+        }
+      }
+    },
+    "nuverse-262304-marvel-snap": {
+      "sources": {
+        "icon": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_53_52/2523693808288_s31350.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_53_52/2523693808288_s31350.png"
+        },
+        "hero": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_53_52/599102806022_s31352.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_53_52/599102806022_s31352.png"
+        },
+        "card": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_53_52/2523693808288_s31350.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_53_52/2523693808288_s31350.png"
+        }
+      },
+      "local": {}
+    },
+    "nuverse-4255-figure-story": {
+      "sources": {
+        "icon": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_57_02/1677455782965_s31370.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_57_02/1677455782965_s31370.png"
+        },
+        "hero": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_57_02/463509069566_s31372.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_57_02/463509069566_s31372.png"
+        },
+        "card": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_57_02/1677455782965_s31370.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_57_02/1677455782965_s31370.png"
+        }
+      },
+      "local": {}
+    },
+    "nuverse-3402-ragnarok-x-next-generation": {
+      "sources": {
+        "icon": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_00_35/3170105906064_s31391.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_00_35/3170105906064_s31391.png"
+        },
+        "hero": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_00_35/2921337205001_s31393.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_00_35/2921337205001_s31393.png"
+        },
+        "card": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_00_35/3170105906064_s31391.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_00_35/3170105906064_s31391.png"
+        }
+      },
+      "local": {}
+    },
+    "nuverse-4067-warhammer-40000-lost-crusade": {
+      "sources": {
+        "icon": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_04_03/3499818448350_s31414.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_04_03/3499818448350_s31414.png"
+        },
+        "hero": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_04_03/1800058689174_s31416.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_04_03/1800058689174_s31416.png"
+        },
+        "card": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_04_03/3499818448350_s31414.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_04_03/3499818448350_s31414.png"
+        }
+      },
+      "local": {}
+    },
+    "nuverse-3631-flower": {
+      "sources": {
+        "icon": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_10_11/3662325056096_s31452.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_10_11/3662325056096_s31452.png"
+        },
+        "hero": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_10_11/2571215410796_s31454.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_10_11/2571215410796_s31454.png"
+        },
+        "card": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_10_11/3662325056096_s31452.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_10_11/3662325056096_s31452.png"
+        }
+      },
+      "local": {}
+    },
+    "nuverse-1870-one-piece-blood-routes": {
+      "sources": {
+        "icon": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_14_48/512219614400_s31479.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_14_48/512219614400_s31479.png"
+        },
+        "hero": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_14_48/54274314265_s31481.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_14_48/54274314265_s31481.png"
+        },
+        "card": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_14_48/512219614400_s31479.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_14_48/512219614400_s31479.png"
+        }
+      },
+      "local": {}
+    },
+    "nuverse-2508-burning-streetball": {
+      "sources": {
+        "icon": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_18_46/1719611149312_s31504.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_18_46/1719611149312_s31504.png"
+        },
+        "hero": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_18_46/419657601234_s31506.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_18_46/419657601234_s31506.png"
+        },
+        "card": {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_18_46/1719611149312_s31504.png",
+          "error": "Fetch failed 404 https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_18_46/1719611149312_s31504.png"
+        }
+      },
+      "local": {}
+    }
+  }
+}
