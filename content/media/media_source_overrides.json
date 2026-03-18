@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-03-18",
+  "note": "Fallback source pages when official_links are unreachable/parked. Keep entries verifiable and prefer first-party / official store pages.",
+  "overrides": {
+    "nuverse-3402-ragnarok-x-next-generation": [
+      "https://ragnarokxy.com/",
+      "https://play.google.com/store/apps/details?id=global.thedream.and.rox&hl=en"
+    ],
+    "nuverse-4067-warhammer-40000-lost-crusade": [
+      "https://warhammer-lost-crusade.prezly.com/warhammer-40000-lost-crusade-is-available-for-ios-and-android-now",
+      "https://apps.apple.com/kw/app/warhammer-40-000-lost-crusade/id1585777789"
+    ],
+    "nuverse-3631-flower": [
+      "https://flower.nvsgames.cn/",
+      "https://play.google.com/store/apps/details?id=com.hermes.global.ygame",
+      "https://www.taptap.io/app/234510"
+    ],
+    "nuverse-4255-figure-story": [
+      "https://play.google.com/store/apps/details?id=com.espritgames.rpg.figure.story&hl=en_US"
+    ]
+  }
+}
+

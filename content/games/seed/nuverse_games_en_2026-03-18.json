@@ -1,0 +1,198 @@
+{
+  "seed_set": "nuverse_official_site",
+  "fetched_at": "2026-03-18",
+  "locale": "en",
+  "sources": [
+    {
+      "name": "Nuverse official website",
+      "type": "website",
+      "url": "https://www.nvsgames.com/",
+      "note": "The site lists games and loads assets/data via a public API. This seed uses only information discoverable from the public site."
+    },
+    {
+      "name": "Nuverse public marketing API (picture/search)",
+      "type": "api",
+      "url": "https://act.toutiaocloud.com/site/api/v2/picture/search",
+      "note": "Public JSON payloads captured under content/_sources/nuverse/ for auditability."
+    }
+  ],
+  "items": [
+    {
+      "id": "nuverse-362004-earth-revival",
+      "external_ids": { "nuverse_appid": "362004", "nuverse_ad_id": "7215926231764638465" },
+      "name": { "en": "Earth: Revival", "zh-Hans": "", "ja": "", "ko": "" },
+      "relationship": {
+        "collection": "official-plus-publisher",
+        "label": "Listed on Nuverse official site (publishing/development brand)",
+        "claims": [
+          "This entry is sourced from Nuverse's public site feed. Any ownership/operating claims beyond that require additional first-party sources."
+        ]
+      },
+      "platforms": ["iOS", "Android", "PC"],
+      "official_links": [{ "label": "Official site", "url": "https://sf.nvsgames.com/" }],
+      "descriptions": {
+        "en": "Earth: Revival is a sci-fi TPS survival game set in 2112, available for iOS/Android/PC.\nOn an Earth ravaged by Tox, a mysterious alien entity, explore a vast open world with deserts, urban ruins, wetlands, and snowy peaks. Try your best to survive in the harsh environments and ever-changing conditions! Collect wood, ore, and food to craft items, weapons, and havens.\nWield futuristic weapons and pilot Power Armors as the Earth's last hope to resist alien creatures and take down evil organizations. Protect the Earth with your friends and restore human civilization!"
+      },
+      "assets": {
+        "icon": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_49_09/1383879050058_s31326.png",
+        "small_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_49_09/1871409699364_s31327.png",
+        "big_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_49_09/1745354848258_s31328.png"
+      }
+    },
+    {
+      "id": "nuverse-262304-marvel-snap",
+      "external_ids": { "nuverse_appid": "262304", "nuverse_ad_id": "7140105422383454977" },
+      "name": { "en": "MARVEL SNAP", "zh-Hans": "", "ja": "", "ko": "" },
+      "relationship": {
+        "collection": "official-plus-publisher",
+        "label": "Listed on Nuverse official site (publishing/development brand)",
+        "claims": [
+          "This entry is sourced from Nuverse's public site feed. Any ownership/operating claims beyond that require additional first-party sources."
+        ]
+      },
+      "platforms": ["iOS", "Android", "Steam"],
+      "official_links": [{ "label": "Official site", "url": "https://www.marvelsnap.com/" }],
+      "descriptions": {
+        "en": "A revolutionary strategy game made for the mobile generation. MARVEL SNAP is the fastest way to play with your favorite MARVEL heroes and villains. \nGet powerful cards, build your deck, and lead your heroes to victory in fast, action-packed, strategic battles. \nYou can enjoy the game at 12 languages, across 31 markets in Asia, Europe and Americas.\nCurrently available on iOS, Android, and Steam."
+      },
+      "assets": {
+        "icon": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_53_52/2523693808288_s31350.png",
+        "small_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_53_52/688786176006_s31351.png",
+        "big_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_53_52/599102806022_s31352.png"
+      }
+    },
+    {
+      "id": "nuverse-4255-figure-story",
+      "external_ids": { "nuverse_appid": "4255", "nuverse_ad_id": "7140105421297111042" },
+      "name": { "en": "Figure Story", "zh-Hans": "", "ja": "", "ko": "" },
+      "relationship": {
+        "collection": "official-plus-publisher",
+        "label": "Listed on Nuverse official site (publishing/development brand)",
+        "claims": [
+          "This entry is sourced from Nuverse's public site feed. Any ownership/operating claims beyond that require additional first-party sources."
+        ]
+      },
+      "platforms": ["iOS", "Android"],
+      "official_links": [{ "label": "Official site", "url": "https://www.figurestory.com/" }],
+      "descriptions": {
+        "en": "Figure Story is a 3D idle RPG mobile game, about collecting and nurturing your favorite figurines. Explore the miniature world and embark on adventures. Available on iOS and Android."
+      },
+      "assets": {
+        "icon": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_57_02/1677455782965_s31370.png",
+        "small_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_57_02/619670042220_s31371.png",
+        "big_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_06_57_02/463509069566_s31372.png"
+      }
+    },
+    {
+      "id": "nuverse-3402-ragnarok-x-next-generation",
+      "external_ids": { "nuverse_appid": "3402", "nuverse_ad_id": "7140105420044165121" },
+      "name": { "en": "Ragnarok X: Next Generation", "zh-Hans": "", "ja": "", "ko": "" },
+      "relationship": {
+        "collection": "official-plus-publisher",
+        "label": "Listed on Nuverse official site (publishing/development brand)",
+        "claims": [
+          "This entry is sourced from Nuverse's public site feed. Any ownership/operating claims beyond that require additional first-party sources."
+        ]
+      },
+      "platforms": ["iOS", "Android"],
+      "official_links": [{ "label": "Official site", "url": "https://www.roxnextgeneration.com/" }],
+      "descriptions": {
+        "en": "ROX is a fantasy MMORPG that combines the nostalgia of the original Ragnarok Online with fresh adventures and modern gameplay. Available on iOS and Android."
+      },
+      "assets": {
+        "icon": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_00_35/3170105906064_s31391.png",
+        "small_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_00_35/3504155049998_s31392.png",
+        "big_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_00_35/2921337205001_s31393.png"
+      }
+    },
+    {
+      "id": "nuverse-4067-warhammer-40000-lost-crusade",
+      "external_ids": { "nuverse_appid": "4067", "nuverse_ad_id": "7140105419012354050" },
+      "name": { "en": "Warhammer 40,000: Lost Crusade", "zh-Hans": "", "ja": "", "ko": "" },
+      "relationship": {
+        "collection": "official-plus-publisher",
+        "label": "Listed on Nuverse official site (publishing/development brand)",
+        "claims": [
+          "This entry is sourced from Nuverse's public site feed. Any ownership/operating claims beyond that require additional first-party sources."
+        ]
+      },
+      "platforms": ["iOS", "Android"],
+      "official_links": [{ "label": "Official site", "url": "https://w40k.nvsgames.com/" }],
+      "descriptions": {
+        "en": "Warhammer 40,000: Lost Crusade is a strategy game set in the grim darkness of the far future. Build your army, conquer worlds, and claim victory. Available on iOS and Android."
+      },
+      "assets": {
+        "icon": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_04_03/3499818448350_s31414.png",
+        "small_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_04_03/1232504239158_s31415.png",
+        "big_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_04_03/1800058689174_s31416.png"
+      }
+    },
+    {
+      "id": "nuverse-3631-flower",
+      "external_ids": { "nuverse_appid": "3631", "nuverse_ad_id": "7140105417330456578" },
+      "name": { "en": "Flower", "zh-Hans": "", "ja": "", "ko": "" },
+      "relationship": {
+        "collection": "official-plus-publisher",
+        "label": "Listed on Nuverse official site (publishing/development brand)",
+        "claims": [
+          "This entry is sourced from Nuverse's public site feed. Any ownership/operating claims beyond that require additional first-party sources."
+        ]
+      },
+      "platforms": ["iOS", "Android"],
+      "official_links": [{ "label": "Official site", "url": "https://flower.nvsgames.com/" }],
+      "descriptions": {
+        "en": "Flower is a casual mobile game where you can explore a beautiful world of flowers and relax. Available on iOS and Android."
+      },
+      "assets": {
+        "icon": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_10_11/3662325056096_s31452.png",
+        "small_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_10_11/1138737154946_s31453.png",
+        "big_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_10_11/2571215410796_s31454.png"
+      }
+    },
+    {
+      "id": "nuverse-1870-one-piece-blood-routes",
+      "external_ids": { "nuverse_appid": "1870", "nuverse_ad_id": "7140105416156053506" },
+      "name": { "en": "One Piece Blood Routes", "zh-Hans": "", "ja": "", "ko": "" },
+      "relationship": {
+        "collection": "official-plus-publisher",
+        "label": "Listed on Nuverse official site (publishing/development brand)",
+        "claims": [
+          "This entry is sourced from Nuverse's public site feed. Any ownership/operating claims beyond that require additional first-party sources."
+        ]
+      },
+      "platforms": ["iOS", "Android"],
+      "official_links": [{ "label": "Official site", "url": "https://onepiece.nvsgames.com/" }],
+      "descriptions": {
+        "en": "Set sail on a new adventure in One Piece Blood Routes. Recruit your favorite characters, build your crew, and battle across the seas. Available on iOS and Android."
+      },
+      "assets": {
+        "icon": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_14_48/512219614400_s31479.png",
+        "small_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_14_48/2646477043658_s31480.png",
+        "big_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_14_48/54274314265_s31481.png"
+      }
+    },
+    {
+      "id": "nuverse-2508-burning-streetball",
+      "external_ids": { "nuverse_appid": "2508", "nuverse_ad_id": "7140105414943891458" },
+      "name": { "en": "Burning Streetball", "zh-Hans": "", "ja": "", "ko": "" },
+      "relationship": {
+        "collection": "official-plus-publisher",
+        "label": "Listed on Nuverse official site (publishing/development brand)",
+        "claims": [
+          "This entry is sourced from Nuverse's public site feed. Any ownership/operating claims beyond that require additional first-party sources."
+        ]
+      },
+      "platforms": ["iOS", "Android"],
+      "official_links": [{ "label": "Official site", "url": "https://burningstreetball.nvsgames.com/" }],
+      "descriptions": {
+        "en": "Burning Streetball is a competitive basketball game featuring fast-paced street matches. Available on iOS and Android."
+      },
+      "assets": {
+        "icon": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_18_46/1719611149312_s31504.png",
+        "small_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_18_46/465908364625_s31505.png",
+        "big_bg": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_09_01_07_18_46/419657601234_s31506.png"
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,300 @@
+{
+  "generated_at": "2026-03-18T10:35:44.723Z",
+  "seed_file": "content/games/seed/nuverse_games_en_2026-03-18.json",
+  "outputs_under": "web/public/media/games",
+  "items": {
+    "nuverse-362004-earth-revival": {
+      "official_url": "https://sf.nvsgames.com/",
+      "tried_pages": [
+        "https://sf.nvsgames.com/"
+      ],
+      "page_errors": {},
+      "picked": {
+        "url": "https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/202304141424/poster.jpg",
+        "reason": "meta[property=\"og:image\"]",
+        "contentType": "image/jpeg",
+        "sha256": "c02bdca1ca7b86cf5ec8f69b4fb6d7bc65226ad51f06947a381524b23e70faf7",
+        "width": 1280,
+        "height": 672,
+        "file": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/games/nuverse-362004-earth-revival/source/primary.jpg",
+        "page": "https://sf.nvsgames.com/"
+      },
+      "candidates": [
+        {
+          "url": "https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/202304141424/poster.jpg",
+          "reason": "meta[property=\"og:image\"]"
+        },
+        {
+          "url": "https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_01_16_07_34_15/favicon_s133960.png",
+          "reason": "link[rel=\"icon\"]"
+        },
+        {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_01_31_06_59_31/234630650799_s10261.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_01_31_06_59_47/124230839918_s15963.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://lf16-fe-tos.bytedgame.com/obj/g-marketing-assets-sg/2023_01_31_09_51_10/192081967865_s51462.png",
+          "reason": "img[src]"
+        }
+      ],
+      "local": {
+        "card": "/media/games/nuverse-362004-earth-revival/derived/card_512.webp",
+        "hero": "/media/games/nuverse-362004-earth-revival/derived/hero_1600x900.webp",
+        "thumb": "/media/games/nuverse-362004-earth-revival/derived/thumb_800x600.webp"
+      }
+    },
+    "nuverse-262304-marvel-snap": {
+      "official_url": "https://www.marvelsnap.com/",
+      "tried_pages": [
+        "https://www.marvelsnap.com/"
+      ],
+      "page_errors": {},
+      "picked": {
+        "url": "https://d2fstzkj6h0nvg.cloudfront.net/wp-content/uploads/2026/03/05110646/s46-desktop-image.png",
+        "reason": "img[src]",
+        "contentType": "image/png",
+        "sha256": "7ea97cdc22c2ac592d3d66f5ef7e8b53a6d12372c760a8b073392c598e0fcccc",
+        "width": 2560,
+        "height": 1900,
+        "file": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/games/nuverse-262304-marvel-snap/source/primary.png",
+        "page": "https://www.marvelsnap.com/"
+      },
+      "candidates": [
+        {
+          "url": "https://www.marvelsnap.com/assets/images/SNAP_KA_1600X900_s336637.jpg",
+          "reason": "meta[property=\"og:image\"]"
+        },
+        {
+          "url": "https://d2fstzkj6h0nvg.cloudfront.net/wp-content/uploads/2025/06/06184128/favicon-1-150x150.jpg",
+          "reason": "link[rel=\"icon\"]"
+        },
+        {
+          "url": "https://d2fstzkj6h0nvg.cloudfront.net/wp-content/uploads/2025/06/06184128/favicon-1-300x300.jpg",
+          "reason": "link[rel=\"apple-touch-icon\"]"
+        },
+        {
+          "url": "https://d2fstzkj6h0nvg.cloudfront.net/wp-content/uploads/2025/03/27171651/googleplay.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://d2fstzkj6h0nvg.cloudfront.net/wp-content/uploads/2025/03/27171719/appstore.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://d2fstzkj6h0nvg.cloudfront.net/wp-content/uploads/2025/03/27171643/steam.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://d2fstzkj6h0nvg.cloudfront.net/wp-content/uploads/2025/06/09024411/Game-Updates.jpg",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://d2fstzkj6h0nvg.cloudfront.net/wp-content/uploads/2026/03/05110646/s46-desktop-image.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://d2fstzkj6h0nvg.cloudfront.net/wp-content/uploads/2026/03/05110941/MarvelSnap_2026_S46_DeveloperUpdateThumbnail_1920x1080_v2.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://marvelsnap.com/wp-content/themes/marvel-snap-2025/src/assets/images/purple-button.svg",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://d2fstzkj6h0nvg.cloudfront.net/wp-content/uploads/2026/03/05111040/EnSabahNur-scaled-1.png",
+          "reason": "img[src]"
+        }
+      ],
+      "local": {
+        "card": "/media/games/nuverse-262304-marvel-snap/derived/card_512.webp",
+        "hero": "/media/games/nuverse-262304-marvel-snap/derived/hero_1600x900.webp",
+        "thumb": "/media/games/nuverse-262304-marvel-snap/derived/thumb_800x600.webp"
+      }
+    },
+    "nuverse-4255-figure-story": {
+      "official_url": "https://www.figurestory.com/",
+      "tried_pages": [
+        "https://www.figurestory.com/",
+        "https://play.google.com/store/apps/details?id=com.espritgames.rpg.figure.story&hl=en_US"
+      ],
+      "page_errors": {
+        "https://www.figurestory.com/": "parked-domain",
+        "https://play.google.com/store/apps/details?id=com.espritgames.rpg.figure.story&hl=en_US": "fetch failed"
+      },
+      "picked": null,
+      "candidates": [],
+      "local": {},
+      "error": "No downloadable image candidates found from official page."
+    },
+    "nuverse-3402-ragnarok-x-next-generation": {
+      "official_url": "https://www.roxnextgeneration.com/",
+      "tried_pages": [
+        "https://www.roxnextgeneration.com/",
+        "https://ragnarokxy.com/",
+        "https://play.google.com/store/apps/details?id=global.thedream.and.rox&hl=en"
+      ],
+      "page_errors": {
+        "https://www.roxnextgeneration.com/": "fetch failed"
+      },
+      "picked": {
+        "url": "https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_03_31_09_21_28/share_image_s1074944.png",
+        "reason": "meta[property=\"og:image\"]",
+        "contentType": "image/png",
+        "sha256": "2adb06df323f9a3471812a8c3be31e45e8df10e6f476d43beb1b3fd5638a8e8a",
+        "width": 1920,
+        "height": 1053,
+        "file": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/games/nuverse-3402-ragnarok-x-next-generation/source/primary.png",
+        "page": "https://ragnarokxy.com/"
+      },
+      "candidates": [
+        {
+          "url": "https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/2023_03_31_09_21_28/share_image_s1074944.png",
+          "reason": "meta[property=\"og:image\"]"
+        },
+        {
+          "url": "https://p16-sg.dailygn.com/img/g-marketing-assets-sg/2021_07_02_06_57_38/1012151074485_s7280.png~q75.png",
+          "reason": "link[rel=\"shortcut icon\"]"
+        },
+        {
+          "url": "https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/static/media/nav_media_left.846ec5b5.jpg",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/static/media/nav_maoxian.c4e65764.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://p16-marketing-sg.bytedgame.com/obj/g-marketing-assets-sg/static/media/nav_media_right.bc61f2a2.png",
+          "reason": "img[src]"
+        }
+      ],
+      "local": {
+        "card": "/media/games/nuverse-3402-ragnarok-x-next-generation/derived/card_512.webp",
+        "hero": "/media/games/nuverse-3402-ragnarok-x-next-generation/derived/hero_1600x900.webp",
+        "thumb": "/media/games/nuverse-3402-ragnarok-x-next-generation/derived/thumb_800x600.webp"
+      }
+    },
+    "nuverse-4067-warhammer-40000-lost-crusade": {
+      "official_url": "https://w40k.nvsgames.com/",
+      "tried_pages": [
+        "https://w40k.nvsgames.com/",
+        "https://warhammer-lost-crusade.prezly.com/warhammer-40000-lost-crusade-is-available-for-ios-and-android-now",
+        "https://apps.apple.com/kw/app/warhammer-40-000-lost-crusade/id1585777789"
+      ],
+      "page_errors": {
+        "https://w40k.nvsgames.com/": "fetch failed",
+        "https://warhammer-lost-crusade.prezly.com/warhammer-40000-lost-crusade-is-available-for-ios-and-android-now": "Fetch HTML failed 404 https://warhammer-lost-crusade.prezly.com/warhammer-40000-lost-crusade-is-available-for-ios-and-android-now",
+        "https://apps.apple.com/kw/app/warhammer-40-000-lost-crusade/id1585777789": "Fetch HTML failed 404 https://apps.apple.com/kw/app/warhammer-40-000-lost-crusade/id1585777789"
+      },
+      "picked": null,
+      "candidates": [],
+      "local": {},
+      "error": "No downloadable image candidates found from official page."
+    },
+    "nuverse-3631-flower": {
+      "official_url": "https://flower.nvsgames.com/",
+      "tried_pages": [
+        "https://flower.nvsgames.com/",
+        "https://flower.nvsgames.cn/",
+        "https://play.google.com/store/apps/details?id=com.hermes.global.ygame",
+        "https://www.taptap.io/app/234510"
+      ],
+      "page_errors": {
+        "https://flower.nvsgames.com/": "fetch failed",
+        "https://flower.nvsgames.cn/": "all-candidates-download-failed",
+        "https://play.google.com/store/apps/details?id=com.hermes.global.ygame": "fetch failed"
+      },
+      "picked": {
+        "url": "https://img.tapimg.net/market/images/2fab2d2962c46b50fe3a27f97727e74b.png?imageView2/0/h/270/format/jpg/interlace/1/ignore-error/1&t=1",
+        "reason": "meta[property=\"og:image\"]",
+        "contentType": "image/webp",
+        "sha256": "09892145f0f79dc7251f7734488ec9e8817d28069d45b6d70372c119b11f21a5",
+        "width": 270,
+        "height": 270,
+        "file": "/Users/bin.gao/chat-uikit/bytedance_games_website/web/public/media/games/nuverse-3631-flower/source/primary.webp",
+        "page": "https://www.taptap.io/app/234510"
+      },
+      "candidates": [
+        {
+          "url": "https://flower.nvsgames.cn/cdn/img/share_icon.jpg",
+          "reason": "meta[property=\"og:image\"]"
+        },
+        {
+          "url": "https://flower.nvsgames.cn/cdn/img/bg_pc_trans.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://flower.nvsgames.cn/cdn/img/QR_code_1.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://flower.nvsgames.cn/cdn/img/android_btn.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://flower.nvsgames.cn/cdn/img/apple_btn.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://flower.nvsgames.cn/cdn/img/simulator.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://flower.nvsgames.cn/cdn/img/money_img.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://flower.nvsgames.cn/cdn/img/lj_img_1.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://flower.nvsgames.cn/cdn/img/hzl_img_1.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://flower.nvsgames.cn/cdn/img/sj_yf_img.png",
+          "reason": "img[src]"
+        },
+        {
+          "url": "https://flower.nvsgames.cn/cdn/img/sz_img.png",
+          "reason": "img[src]"
+        }
+      ],
+      "local": {
+        "card": "/media/games/nuverse-3631-flower/derived/card_512.webp",
+        "hero": "/media/games/nuverse-3631-flower/derived/hero_1600x900.webp",
+        "thumb": "/media/games/nuverse-3631-flower/derived/thumb_800x600.webp"
+      }
+    },
+    "nuverse-1870-one-piece-blood-routes": {
+      "official_url": "https://onepiece.nvsgames.com/",
+      "tried_pages": [
+        "https://onepiece.nvsgames.com/"
+      ],
+      "page_errors": {
+        "https://onepiece.nvsgames.com/": "fetch failed"
+      },
+      "picked": null,
+      "candidates": [],
+      "local": {},
+      "error": "No downloadable image candidates found from official page."
+    },
+    "nuverse-2508-burning-streetball": {
+      "official_url": "https://burningstreetball.nvsgames.com/",
+      "tried_pages": [
+        "https://burningstreetball.nvsgames.com/"
+      ],
+      "page_errors": {
+        "https://burningstreetball.nvsgames.com/": "fetch failed"
+      },
+      "picked": null,
+      "candidates": [],
+      "local": {},
+      "error": "No downloadable image candidates found from official page."
+    }
+  }
+}
